@@ -1,4 +1,4 @@
-# AirBnB-Seattle-2016
+# AirBnB-Seattle-2016-Data-Visualization-in-Tableau
 In this project I visualizes data of AirBnBs in Seattle from 2016.<br>
 The visualization Tool I used, was Tableau Public.
 
